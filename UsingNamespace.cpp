@@ -6,7 +6,7 @@ using std::endl;
 
 int main() {
 
-	long long favy_number;
+	long favy_number;
 
 	cout << "What is your favy number bro?" << endl;
 
