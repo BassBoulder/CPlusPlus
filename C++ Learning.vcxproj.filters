@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="UsingNamespace.cpp">
+    <ClCompile Include="Blind Right Third Program.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
