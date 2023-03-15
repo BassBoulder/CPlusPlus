@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Section 6 Challenge\Small_Large_Rooms.cpp" />
+    <ClCompile Include="Section 7 Challenge\Vector Challenge.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
