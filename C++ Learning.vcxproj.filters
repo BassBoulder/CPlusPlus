@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Section 7 Challenge\Vector Challenge.cpp">
+    <ClCompile Include="Section 8 Challenge\Statements Operators.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
