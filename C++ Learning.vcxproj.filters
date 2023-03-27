@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Logical Operators.cpp">
+    <ClCompile Include="Section 8 Challenge\Dollars and Cents.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
