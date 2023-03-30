@@ -19,7 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Section 8 Challenge\Dollars and Cents.cpp" />
+    <ClCompile Include="Section 8 Challenge\Dollars and Cents - B.cpp" />
+    <ClCompile Include="Section 9 Challenge\If statements.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
