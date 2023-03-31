@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Section 8 Challenge\Dollars and Cents - B.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Section 9 Challenge\If statements.cpp">
+    <ClCompile Include="Section 9 Challenge\if else statement.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
