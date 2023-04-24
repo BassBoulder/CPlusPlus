@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Section 9 Challenge\Ranged-Based For Loop.cpp">
+    <ClCompile Include="Section 9 Challenge\Do While.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
