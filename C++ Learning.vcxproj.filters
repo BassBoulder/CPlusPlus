@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Section 9 Challenge\Nested Loop.cpp">
+    <ClCompile Include="Section 9 Challenge\S9 Challenge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
