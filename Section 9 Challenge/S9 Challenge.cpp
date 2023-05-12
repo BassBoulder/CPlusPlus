@@ -21,8 +21,8 @@ int main()
 		if (choice == 'P')
 			for (int i{ 0 }; i < numbers.size(); i++)
 			{
-				cout << "\t" << numbers.at(i) << "\t";
-				cout << endl;
+				cout << "[ \t" << numbers.at(i) << "\t";
+				cout << " ]" << endl;
 			}
 
 		if (choice == 'A')
@@ -42,7 +42,7 @@ int main()
 
 		if (choice == 'S')
 		{ 
-			cout << endl << "Min Number: " << * min_element(numbers.begin(), numbers.end()) << endl;
+			cout << endl << "Min Number: " << *min_element(numbers.begin(), numbers.end()) << endl;
 		}
 
 		if (choice == 'L')
