@@ -8,8 +8,6 @@ int main()
 {
 
 	string name{};
-	string name2{};
-	string name3{};
 
 	cout << "What's your full name?" << endl;
 	cin >> name;
@@ -17,12 +15,12 @@ int main()
 
 
 	cout << "What's your full name?" << endl;
-	getline(cin, name2);
-	cout << name2 << endl;
+	getline(cin, name);
+	cout << name << endl;
 
 	cout << "What's your full name?" << endl;
-	getline(cin, name3, 'x');
-	cout << name3 << endl;
+	getline(cin, name, 'x');
+	cout << name << endl;
 
 
 	return 0;
