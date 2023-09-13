@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Rusty_Test.cpp">
+    <ClCompile Include="Seciton 11 Challenge\function test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
