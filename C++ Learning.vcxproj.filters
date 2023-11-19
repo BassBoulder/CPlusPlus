@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Seciton 11 Challenge\S11 Challenge.cpp">
+    <ClCompile Include="Section 12 Challenge\Pointers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
