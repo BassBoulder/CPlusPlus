@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Section 12 Challenge\Pointers.cpp">
+    <ClCompile Include="Section 12 Challenge\Pointers Going Cold.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
