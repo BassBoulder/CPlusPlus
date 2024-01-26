@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Section 12 Challenge\Pointers Going Cold.cpp">
+    <ClCompile Include="Weapon Combos.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
