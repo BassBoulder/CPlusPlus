@@ -48,6 +48,8 @@ int main()
 	Print(results, 15);
 
 	delete[] results;
+
 	cout << endl;
+
 	return 0;
 }
