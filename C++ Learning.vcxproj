@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Section 13 Challenge\Declare Class &amp; Create Objects.cpp" />
     <ClCompile Include="Weapon Combos.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
