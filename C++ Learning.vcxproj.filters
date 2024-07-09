@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Section 13 Challenge\Public_Private.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Section 13 Challenge\Declare Class &amp; Create Objects.cpp">
+    <ClCompile Include="Section 13 Challenge\Const Classes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

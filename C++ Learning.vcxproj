@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Section 13 Challenge\Declare Class &amp; Create Objects.cpp" />
-    <ClCompile Include="Section 13 Challenge\Public_Private.cpp" />
+    <ClCompile Include="Section 13 Challenge\Const Classes.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
