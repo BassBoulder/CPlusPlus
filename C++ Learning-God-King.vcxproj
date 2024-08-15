@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Self\AliceTypeInTest.cpp" />
-    <ClCompile Include="Self\LightsandPeople.cpp" />
+    <ClCompile Include="Section 13 Challenge\Const Classes.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
