@@ -19,8 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Self\AliceTypeInTest.cpp" />
-    <ClCompile Include="Self\LightsandPeople.cpp" />
+    <ClCompile Include="C++ Learning\Section 13 Challenge\Movie.cpp" />
+    <ClCompile Include="C++ Learning\Section 13 Challenge\Movies.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C++ Learning\Section 13 Challenge\Movie.h" />
+    <ClInclude Include="C++ Learning\Section 13 Challenge\Movies.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
