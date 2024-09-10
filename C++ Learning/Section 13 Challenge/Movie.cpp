@@ -1,42 +1,19 @@
 #include <iostream>
 #include "Movie.h"
 
-Movies::Movies() {
+Movie::Movie(std::string name, std::string rating, int watched)
+	:name(name), rating(rating), watched(watched) {
 }
 
-Movies::~Movies() {
+Movie::Movie(const Movie& source)
+	: Movie{ source.name, source.rating, source.watched } {
+
 }
 
-bool Movies::add_movie(std::string name, std::string rating, int watched) {
-	
-	for (const Movie &movie : movies) {
-		if (movie.get_name() == name)
-			return false;
-	}
-	Movie temp{ name, rating, watched };
-	movies.push_back(temp);
-	return true;
+Movie::~Movie() {
+
 }
 
-bool Movies::increment_watched(std::string name) {
-
-	for (const Movie &movie : movies) {
-		if (movie.get_name() == name) {
-			movie.increment_watched();
-			return true;
-		}
-	}
-	return false;
-}
-
-void Movies::display() const {
-	if (movies.size() == 0) {
-		std::cout << "Sorry, no movies to display\n" << std::endl;
-	}
-	else {
-	std::cout << "\n==================================================" << std::endl;
-	for (const auto &movie : movies)
-		movie.display();
-	std::cout << "\n==================================================" << std::endl;
-	}
+void Movie::display() const {
+	std::cout << name << "," << rating << "," << watched << std::endl;
 }
