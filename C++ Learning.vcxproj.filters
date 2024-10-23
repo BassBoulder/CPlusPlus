@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Self\AliceTypeInTest.cpp">
+    <ClCompile Include="C++ Learning\Misc\Bug_Lottery.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Self\LightsandPeople.cpp">
+    <ClCompile Include="Test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

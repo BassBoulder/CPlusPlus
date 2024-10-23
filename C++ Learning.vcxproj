@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Self\AliceTypeInTest.cpp" />
-    <ClCompile Include="Self\LightsandPeople.cpp" />
+    <ClCompile Include="C++ Learning\Misc\Bug_Lottery.cpp" />
+    <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

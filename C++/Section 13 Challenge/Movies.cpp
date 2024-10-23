@@ -30,7 +30,7 @@ bool Movies::increment_watched(std::string name) {
 }
 
 void Movies::display() const {
-	if (movies.size() == 0) {
+	if (movie.size() == 0) {
 		std::cout << "Sorry, no movies to display\n" << std::endl;
 	}
 	else {
