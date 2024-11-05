@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C++ Learning\Misc\Bug_Lottery.cpp" />
+    <ClCompile Include="C++\Exercism\LogLevels.cpp" />
     <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
